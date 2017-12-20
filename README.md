@@ -1,4 +1,7 @@
 # Supporting-Emergency-Room-Decision-Making-with-Relevant-Scientific-Literature
+### Supervised by: Yassine Benajiba
+### Course: Introduction to Statistical NLP
+### School: The George Washington University
 
 ## Motivation and Problem Statement
 Our goal in this assignment was to provide healthcare providers (HCPs) with automated access to articles that can support clinical decision-making and diagnosis. Each patient that enters the ER represents a new combination of history (including environmental factors and health history), presenting symptoms, and potential diagnoses. HCPs are already overloaded and often do not have sufficient time to keep up with the current literature regarding treatments, diseases, and the interactions between them. Our plan is to create a tool which can be used to provide these HCPs with real-time, accurate reports of research relevant to each patient who enters the hospital. By linking the intake records of ER patients to relevant PubMed articles that can provide HCPs with clinical decision support, this project aims to increase the quality of care that patients receive, while making physicians and other healthcare providers feel supported in the challenging processes of diagnosis and treatment.
